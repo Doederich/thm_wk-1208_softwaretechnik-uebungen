@@ -10,4 +10,5 @@ Programmieren 1 mit Java. Entwicklungen in Microsoft Power Automate sowie Power 
 
 ## Das erwarte ich von der Veranstaltung
 
-…
+Ich erhoffe mir, weitere Konzepte der Softwareentwicklung zu erlernen, sowie die ersten Versuche mit Github weiter zu vertiefen.
+Ebenfalls hoffe ich auf eine angenehme Veranstaltung.
